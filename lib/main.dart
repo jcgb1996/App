@@ -1,8 +1,4 @@
 import 'dart:io';
-
-
-
-
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get_ip/get_ip.dart';
