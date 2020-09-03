@@ -1,8 +1,11 @@
 import 'package:our_future/infraestructura/app_logic/infra_app_logic.dart';
+//import 'package:our_future/infraestructura/app_logic/infra_store_logic.dart';
 //import 'package:our_future/infraestructura/data_source/infra_login.dart';
 
 class DepenAppLogic {
-  DepenAppLogic({InfraObtenerIp repository}) : _repository = repository;
+  DepenAppLogic({
+    InfraObtenerIp repository,
+  }) : _repository = repository;
 
   InfraObtenerIp _repository;
 

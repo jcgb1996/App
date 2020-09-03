@@ -1,4 +1,4 @@
-//import 'package:flutter/services.dart';
+//Aqui se va a poner toda la logica que sea de aplicacion, como obtener IP, etc
 import 'package:get_ip/get_ip.dart';
 import 'package:our_future/dominio/i_dominio/dom_app_logic.dart';
 //import 'package:our_future/dominio/i_dominio/dom_login.dart';
